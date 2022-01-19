@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите количетво строк:\n");
+﻿//матрицы методы
+Console.WriteLine("Введите количетво строк:\n");
 int rows = Int32.Parse(Console.ReadLine());
 Console.WriteLine("Введите количетво столбцов:\n");
 int columns = Int32.Parse(Console.ReadLine());
